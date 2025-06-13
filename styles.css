@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body{
+	font-family: Arial, sans-serif;
+	background: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb') no-repeat center center fixed;
+	background-size: cover;
+}
+#band{
+	background: rgba(255,255,255,0,8);
+	padding: 20px;
+	max-width: 400px;
+	margin: 50px auto;
+	list-style: square inside;
+	border-radius: 10px;
+}
+li{
+	padding: 5px 0;
+}
