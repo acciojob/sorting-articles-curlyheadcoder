@@ -12,6 +12,6 @@ body{
 	list-style: square inside;
 	border-radius: 10px;
 }
-li{
+#bands li{
 	padding: 5px 0;
 }
